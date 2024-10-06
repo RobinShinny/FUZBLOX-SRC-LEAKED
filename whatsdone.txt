@@ -1,0 +1,29 @@
+                    ----------------- WHATS DONE -----------------
+
+                    1. Register - DONE
+
+                    2. Login - DONE
+
+                    3. Users - MID
+
+                    4. GAMES - NO
+
+                    5. ADMINSTRATION - UNFINISHED
+
+                    6. RENDERING - NO
+
+                    7. Navbar  - DONE
+
+                    8. Logout - DONE
+
+                    9. CLIENT - NO
+
+                    10. Customization - NO
+
+                    11. Marketplace - NO
+
+                    12. ID - NO
+
+
+                    13. Friends-System - MID
+                    ----------------- Most of the stuff IS NOT DONE -----------------
