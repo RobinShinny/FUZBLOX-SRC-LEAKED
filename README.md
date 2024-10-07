@@ -6,4 +6,4 @@
 # FUZBLOX-ISSUE-HELPER
 
 
-Come over to this <a href="https://robinshinny.github.io/FUZBLOX-SRC-LEAKED/">Site/</a>
+Come over to this <a href="https://robinshinny.github.io/FUZBLOX-SRC-LEAKED/">Site</a>
