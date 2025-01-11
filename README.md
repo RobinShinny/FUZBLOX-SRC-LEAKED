@@ -1,5 +1,10 @@
 # FUZBLOX-SRC-LEAKED
-["SRC"] -- I No longer want to own this src i first created to have  a little revival but i decided  to keep it down i no longer wanna own this src Im putting it to public! ['UNFINISHED-SRC']; ['Illegal-Actions']-- Jay Can Take  illegal Actions  to use this SRC  Jay if you see this and you want it down please contact me! Thank You.
+["SRC"] -- I no longer want to own this SRC. I first created it to have a little revival, but I’ve decided to keep it down. I no longer want to own this SRC, so I’m putting it to public!
+
+['UNFINISHED-SRC']
+['Illegal-Actions'] -- Jay, any illegal actions taken using this SRC are your responsibility. If you see this and want it taken down, please contact me!
+
+Thank you.
 # FUZBLOX-UNFINSHED-SRC
 
 
